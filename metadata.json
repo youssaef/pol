@@ -1,0 +1,6 @@
+{
+  "name": "Learn & Run",
+  "description": "3D Educational Endless Runner for kids: Play, Learn, Explore, Collect, and Level Up across 11 vibrant worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
